@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = loic.leforestier@mmibordeaux.com
+	name = loic leforestier
